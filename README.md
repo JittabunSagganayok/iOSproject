@@ -10,3 +10,6 @@
 - มีฟังก์ชั่นเล่นวิดิโอรีวิว
 
 - มีฟังก์ชั่นแสดงตำแหน่งสาขาด้วย Mapkit
+
+- ไฟล์รายงาน : https://drive.google.com/file/d/1BsaVDS20U3NWOB1ap-WPAVD3cLDG6oHX/view?usp=sharing
+- Presentation Video : https://drive.google.com/file/d/1qPNQw0qup9ZvcmP5rLmAQG2zDoVWThJD/view?usp=sharing
